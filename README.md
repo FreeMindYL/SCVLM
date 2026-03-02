@@ -4,7 +4,7 @@ This repository contains the implementation of **SCVLM**, a dual-branch framewor
 
 ## Framework Overview
 
-![Framework](./Figure_1_The%20overall%20framework%20of%20SCVLM.pdf)
+![Framework](./Figure1.png)
 
 SCVLM consists of two branches:
 - **Graph Branch**: UniXcoder/RoBERTa encoder with DFG+CFG-guided attention masks

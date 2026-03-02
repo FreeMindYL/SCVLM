@@ -186,17 +186,6 @@ Pattern extraction is fully automated via AST parsing (`tree-sitter-solidity`) a
 
 ## Citation
 
-If you use this code, please cite our paper:
-
-```bibtex
-@article{scvlm2024,
-  title={SCVLM: Smart Contract Vulnerability Detection via Large Language Models with Expert Knowledge Integration},
-  author={...},
-  journal={...},
-  year={2024}
-}
-```
-
 ---
 
 ## License

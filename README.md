@@ -1,4 +1,4 @@
-# SCVLM: Multimodal Smart Contract Vulnerability Detection via Heterogeneous Integration with Flexible Feature Fusion
+# SCVLM: Multimodal Smart Contract Vulnerability Detection via Heterogeneous Model Integration with Flexible Feature Fusion
 
 This repository contains the implementation of **SCVLM**, a dual-branch framework for detecting smart contract vulnerabilities, including **Reentrancy** and **Timestamp Dependency**.
 
